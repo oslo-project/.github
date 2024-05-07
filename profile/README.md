@@ -2,7 +2,7 @@
 
 Oslo is an open-source project that aims to provide simple, high-quality, and runtime-agnostic auth packages for serer-side JS. These packages do not rely on any third-party dependencies, instead using the standard Web APIs and other Oslo packages.
 
-This project is currently lead by [Pilcrow]().
+This project is currently lead by [Pilcrow](https://github.com/pilcrowOnPaper).
 
 **https://oslojs.dev**
 
