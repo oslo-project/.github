@@ -8,16 +8,11 @@ This project is currently lead by [Pilcrow](https://github.com/pilcrowOnPaper).
 
 ## Packages
 
-- [`@oslojs/binary`](https://github.com/oslo-project/binary): Primitives for working with binary data.
-- [`@oslojs/crypto`](https://github.com/oslo-project/crypto): SHA-1, SHA-2, HMAC, and secure RNGs.
-- [`@oslojs/encoding`](https://github.com/oslo-project/encoding): Hex, base32, base64, and base64url encoding.
-- [`@oslojs/oauth2`](https://github.com/oslo-project/oauth2): OAuth 2.0 client APIs.
-- [`@oslojs/otp`](https://github.com/oslo-project/otp): One-time passwords with HOTP and TOTP.
-- [`@oslojs/cbor`](https://github.com/oslo-project/cbor): CBOR decoding.
-- [`@oslojs/asn1`](https://github.com/oslo-project/asn1): ASN.1 encoding and decoding.
-
-## Possible future packages
-
-- `@oslojs/passkey` or `@oslojs/webauthn`
-- `@oslojs/json`
-- `@oslojs/jwt`
+-   [`@oslojs/binary`](https://github.com/oslo-project/binary): Primitives for working with binary data.
+-   [`@oslojs/crypto`](https://github.com/oslo-project/crypto): SHA-1, SHA-2, HMAC, and secure RNGs.
+-   [`@oslojs/encoding`](https://github.com/oslo-project/encoding): Hex, base32, base64, and base64url encoding.
+-   [`@oslojs/oauth2`](https://github.com/oslo-project/oauth2): OAuth 2.0 client APIs.
+-   [`@oslojs/otp`](https://github.com/oslo-project/otp): One-time passwords with HOTP and TOTP.
+-   [`@oslojs/cbor`](https://github.com/oslo-project/cbor): CBOR decoding.
+-   [`@oslojs/asn1`](https://github.com/oslo-project/asn1): ASN.1 encoding and decoding.
+-   [`@oslojs/webauthn`](https://github.com/oslo-project/webauthn): Parse and validate Web Authentication API data.
