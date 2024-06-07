@@ -15,4 +15,4 @@ This project is currently lead by [Pilcrow](https://github.com/pilcrowOnPaper).
 -   [`@oslojs/otp`](https://github.com/oslo-project/otp): One-time passwords with HOTP and TOTP.
 -   [`@oslojs/cbor`](https://github.com/oslo-project/cbor): CBOR decoding.
 -   [`@oslojs/asn1`](https://github.com/oslo-project/asn1): ASN.1 encoding and decoding.
--   [`@oslojs/webauthn`](https://github.com/oslo-project/webauthn): Parse and validate Web Authentication API data.
+-   [`@oslojs/webauthn`](https://github.com/oslo-project/webauthn): Parse and validate Web Authentication data.
