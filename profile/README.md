@@ -16,3 +16,5 @@ This project is currently lead by [Pilcrow](https://github.com/pilcrowOnPaper).
 -   [`@oslojs/cbor`](https://github.com/oslo-project/cbor): CBOR decoding.
 -   [`@oslojs/asn1`](https://github.com/oslo-project/asn1): ASN.1 encoding and decoding.
 -   [`@oslojs/webauthn`](https://github.com/oslo-project/webauthn): Parse and validate Web Authentication data.
+-   [`@oslojs/jwt`](https://github.com/oslo-project/jwt): Parse and encode JSON web tokens.
+
